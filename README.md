@@ -1,0 +1,1 @@
+# lab_2_shop_class_and_static_methods
